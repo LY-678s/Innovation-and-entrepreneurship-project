@@ -6,7 +6,6 @@ pip install openslide-python
 pip install matplotlib
 pip install tqdm
 pip install scikit-image
-pip install numpy![image](https://github.com/user-attachments/assets/2da0b53b-361c-4cda-93f5-2c1cd1765379)
-
+pip install numpy
 ## Run
 straightly run.
